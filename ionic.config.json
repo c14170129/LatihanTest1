@@ -1,0 +1,7 @@
+{
+  "name": "LatihanTest1",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
